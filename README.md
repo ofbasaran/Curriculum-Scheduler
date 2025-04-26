@@ -1,4 +1,8 @@
-# CENG206Project2024
+Curriculum-Scheduler
+
+A course scheduling site built with Angular for my university project.
+
+Remember to run "npm install" in your terminal to set up the node modules before launching it.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
